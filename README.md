@@ -1,2 +1,2 @@
 # Visual Studio
-Initil C# coding
+Initial C# coding
